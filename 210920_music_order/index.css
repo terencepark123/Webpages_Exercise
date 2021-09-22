@@ -12,6 +12,11 @@
     --dark-blue : hsl(223, 47%, 23%);
 }
 
+.bg_color {
+    width: 1440px;
+    height: 900px;
+    background: #E0E8FF;
+}
 .A1 {position: absolute;
     width: 450px;
     height: 697px;
